@@ -22,7 +22,8 @@
 **Hardware & Platforms:** `Windows` `Arduino` `Raspberry Pi`
 
 ### 📬 Reach Me
-[📧 soep0425@gmail.com](mailto:soep0425@gmail.com)  
+[📧 soep0425@gmail.com](mailto:soep0425@gmail.com) 
+[🔗 epiccat69.github.io]((https://epiccat69.github.io))
 [🔗 github.com/EpicCat69](https://github.com/EpicCat69)
 
 ---
