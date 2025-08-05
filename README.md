@@ -23,7 +23,7 @@
 
 ### 📬 Reach Me
 [📧 soep0425@gmail.com](mailto:soep0425@gmail.com) 
-[🔗 epiccat69.github.io]((https://epiccat69.github.io))
+[🔗 epiccat69.github.io](https://epiccat69.github.io)
 [🔗 github.com/EpicCat69](https://github.com/EpicCat69)
 
 ---
