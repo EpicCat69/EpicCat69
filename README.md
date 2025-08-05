@@ -16,7 +16,10 @@
 - 📽️ **Shortform Bot** – automatic Shorts/TikToks with subtitles, TTS, random visuals
 
 ### 🧰 Toolbox
-`C#` `Python` `C++` `Unity` `Blender` `Arduino` `FFmpeg` `Docker`
+**Languages:** `C#` `Python` `C++` `HTML` `CSS` `JavaScript`  
+**Frameworks/Engines:** `Unity` `.NET` `Node.js`  
+**Dev Tools:** `Blender` `TinkerCAD` `Git` `Terminal` `Docker` `Visual Studio` `VS Code` `Anycubic Slicer Next` `Fusion 360`  
+**Hardware & Platforms:** `Windows` `Arduino` `Raspberry Pi`
 
 ### 📬 Reach Me
 [📧 soep0425@gmail.com](mailto:soep0425@gmail.com)  
